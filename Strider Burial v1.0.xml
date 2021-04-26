@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<record>
+	<_id>DIAL</_id>
+	<key>Strider Burial</key>
+	<val>cmentarzysko łazików</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Anu_Bracer_GS_L</key>
+	<val>Lekki kościany lewy karwasz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Anu_Bracer_GS_R</key>
+	<val>Lekki kościany prawy karwasz</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Anu_Cuirass_GS</key>
+	<val>Lekki kościany kirys</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Anu_Mask_GS</key>
+	<val>Maska Eterycznego Węża</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Anu_Pauldron_GS_L</key>
+	<val>Lekki kościany l. naramiennik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Anu_Pauldron_GS_R</key>
+	<val>Lekki kościany p. naramiennik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>BOOK^Anu_Note_GS</key>
+	<val>Wiadomość od Nabari</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CLOT^Anu_Ring_Disrobing</key>
+	<val>Pierścień Obnażania</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CLOT^Anu_Robe_GS</key>
+	<val>Szata Eterycznego Węża</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^Anu_Uldrashi</key>
+	<val>Nabari Uldrashi</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^Anu_Axe_Summon</key>
+	<val>Szklany topór wojenny</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^Anu_Fang_GS</key>
+	<val>Kieł Eterycznego Węża</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^cmentarzysko łazików^8215315461080822427</key>
+	<val>To zaraz na wschód stąd. Duszne, skaliste wgłębienie wypełnione skorupami łazików. Robimy, co w naszej mocy, by zapewnić umierającym łazikom spokój i komfort w ich ostatnich chwilach. W zamian mamy prawo do zbierania chityny z ich trucheł.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dobra rada^1382213860837118414</key>
+	<val>Jeśli planujesz wycieczkę na pustkowia, lepiej omijaj z daleka cmentarzysko łazików. Wieść głosi, że zamieszkała tam wyjątkowo terytorialna mabrigash.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dobra rada^317533132407221129</key>
+	<val>Podobno dzięki tobie cmentarzysko łazików zostało uwolnione od tej wstrętnej mabrigash. Wszyscy Urshilaku są twoimi dłużnikami.</val>
+</record>
+<record>
+	<_id>TEXT</_id>
+	<key>Anu_Note_GS</key>
+	<val><DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>
+Zerknęłam do pudełka z małymi czerwonymi ludźmi, zerknęłam, a oni zerknęli na mnie. Teraz widzę, ale nie oczami i nie uszami słyszę, jak śpiewają w nocy, niegdyś spokojne bestie głodujące w piasku. Nakarmiłam ich korzeniem, a oni wypluli go z powrotem, nakarmiłam ich szczurem, a oni wypluli go z powrotem, nakarmiłam ich ludźmi i opowiedzieli mi historię. Mają o wiele więcej historii, opowieści, które można opowiadać jedynie z pełnym brzuchem.<BR>
+
+</val>
+</record>
